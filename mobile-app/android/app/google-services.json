@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1020075953586",
+    "project_id": "taxibidapp",
+    "storage_bucket": "taxibidapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020075953586:android:60070544cbbf971ef128ab",
+        "android_client_info": {
+          "package_name": "com.taxi.bid.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSbk6_XAQq1fqGUwCRfcflXJxNYcNKNYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
